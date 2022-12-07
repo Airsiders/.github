@@ -1,4 +1,4 @@
-# PR  Type 
+# Type of change
 
 - [ ] Feature :sparkles:		
 - [ ] Bug Fix :bug: 
