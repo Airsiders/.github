@@ -1,2 +1,2 @@
 # .github
-GitHub config for airsiders
+GitHub  template  dir airsiders
