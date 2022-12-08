@@ -11,7 +11,7 @@
 
 
 
-## Issue ticket number and link
+## JIRA ticket number and link
 
 
 
