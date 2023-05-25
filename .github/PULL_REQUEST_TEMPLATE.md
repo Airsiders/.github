@@ -19,7 +19,7 @@
 
 ## Checklist before requesting a review.
 
-- [ ] I have tested the code locally :white_check_mark:
+- [ ] I have executed and test the code locally :white_check_mark:
 - [ ] I have performed a self-review of my code :white_check_mark: 
 - [ ] I have added  unit test's for the given changes :white_check_mark: 
 - [ ] I have added thorough tests if it is a core feature. :white_check_mark: 
