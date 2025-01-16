@@ -3,6 +3,7 @@
 - [ ] Feature :sparkles:		
 - [ ] Bug Fix :bug: 
 - [ ] Deployment :rocket:	
+  - [ ] Pre-Release Environment
 - [ ] Refactoring  :art:	 
 
 
